@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.exe
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.deps.json
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.runtimeconfig.json
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.dll
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\bin\Debug\netcoreapp3.1\Generic,CollectionsTask.pdb
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.dll
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.pdb
+C:\Users\HP\Desktop\Tasks\Generic,CollectionsTask\Generic,CollectionsTask\obj\Debug\netcoreapp3.1\Generic,CollectionsTask.genruntimeconfig.cache
